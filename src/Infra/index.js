@@ -1,0 +1,1 @@
+export {default as BuscaEndereco} from './BuscaEndereco';

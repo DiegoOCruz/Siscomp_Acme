@@ -35,6 +35,7 @@ Este é um sistema de compras desenvolvido em React com Vite, que permite a gest
 
 
 2. Navegue até o diretório do projeto:
+```bash
     cd sistema-de-compras
 
 3. Instale as dependências:
